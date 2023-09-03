@@ -2,7 +2,7 @@
 
 - A pedido do Chief Marketing Officer(CMO), estarei realizando este relatório com o objetivo de compreender os motivos que estão fazendo os funcionários da empresa pedirem demissão. O foco principal é entender e analisar os números, e tomar uma conclusão sobre o que está motivando os funcionários a saírem da empresa, trazer insights para melhorar o entendimento, e buscar soluções para tais problemas, melhorar a relação entre empresa-funcionário e diminuir o número de evasões.
 
-Começaremos então resolvendo algumas questões que foram predefinidas e analisaremos os dados fornecidos pela empresa por meio de uma pesquisa após o pedido de demissão, e também pela pesquisa feita pela HRBP. Realizaremos novos gráficos para visualizar melhor os dados e facilitar o entendimento das informações aqui obtidas.
+- Começaremos então resolvendo algumas questões que foram predefinidas e analisaremos os dados fornecidos pela empresa por meio de uma pesquisa após o pedido de demissão, e também pela pesquisa feita pela HRBP. Realizaremos novos gráficos para visualizar melhor os dados e facilitar o entendimento das informações aqui obtidas.
 
 ## Ferramentas Utilizadas:
 - Google Colab (Para demonstrar todo o projeto e armazenar)
